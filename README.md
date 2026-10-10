@@ -15,7 +15,7 @@ The project follows a guided learning approach, allowing me to practice Power BI
 <!-- Add your dashboard overview GIF to the assets folder and update the path below. -->
 
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
+  <img src="Resources\images\Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
 ## Dashboard File
@@ -77,7 +77,7 @@ Practiced making the dashboard more useful through interactive features:
 
 <!-- Add the first-page GIF or screenshot to assets and update the filename. -->
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)
+![Data Jobs Dashboard Page 1](Resources\images\Project1_Dashboard_Page1.gif)
 
 The first page provides a high-level view of the data job market, including job counts, median salaries, and job-title comparisons.
 
@@ -87,7 +87,7 @@ It is designed to help users explore the overall market before investigating a s
 
 <!-- Add the second-page GIF or screenshot to assets and update the filename. -->
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)
+![Data Jobs Dashboard Page 2](Resources\images\Project1_Dashboard_Page2.gif)
 
 The second page provides a more detailed view for a selected job title. It explores salary information, work-from-home statistics, hiring platforms, and geographic distribution.
 
