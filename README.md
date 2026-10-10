@@ -77,8 +77,10 @@ Practiced making the dashboard more useful through interactive features:
 
 <!-- Add the first-page GIF or screenshot to assets and update the filename. -->
 
-![Data Jobs Dashboard Page 1](.\Resources\images\Project1_Dashboard_Page1.gif)
-
+<a href="https://lukeb.co/powerbi-project1" target="_blank">
+  <img src="Resources\images\Project1_Dashboard_Page1.gif" alt="Data Jobs Dashboard Page 1">
+</a>
+  
 The first page provides a high-level view of the data job market, including job counts, median salaries, and job-title comparisons.
 
 It is designed to help users explore the overall market before investigating a specific role.
@@ -87,7 +89,9 @@ It is designed to help users explore the overall market before investigating a s
 
 <!-- Add the second-page GIF or screenshot to assets and update the filename. -->
 
-![Data Jobs Dashboard Page 2](.\Resources\images\Project1_Dashboard_Page2.gif)
+<a href="https://lukeb.co/powerbi-project1" target="_blank">
+  <img src="Resources\images\Project1_Dashboard_Page2.gif" alt="Data Jobs Dashboard Page 2">
+</a>
 
 The second page provides a more detailed view for a selected job title. It explores salary information, work-from-home statistics, hiring platforms, and geographic distribution.
 
